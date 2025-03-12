@@ -120,5 +120,4 @@ For questions or contributions, feel free to reach out:
 
 ---
 
-This README now **includes Multi-Retrieval Query explanation** to show how it enhances **GitHub issue similarity search**. 🚀 Let me know if you need any modifications!
 
